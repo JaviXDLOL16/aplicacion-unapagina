@@ -51,24 +51,24 @@ function Body() {
     nombre = 'Guernica'
     
     autor = 'Pablo Picasso'
-    fecha = 'julio de 1889'
-    descripcion= 'Vicent Van Gogh ingresa en 1889 en el Hospital Psiquiátrico de Sint-Rémy, donde mirando una y otra vez por la ventana, descubre su obsesión por los cipreses. En una de las cartas que escribe a su hermano Theo, le dice: “Los cipreses me siguen preocupando. Me gustaría hacer algo con ellos, como los cuadros de los girasoles, porque me sorprende que nadie los haya pintado aún como yo los veo.'/>
+    fecha = 'junio de 1937,'
+    descripcion= 'Título alude al bombardeo de Guernica, ocurrido el 26 de abril de dicho año, durante la guerra civil española. Fue realizado por encargo del director general de Bellas Artes, Josep Renau, a petición del Gobierno de la Segunda República Española para ser expuesto en el pabellón español durante la Exposición Internacional de 1937 en París, con el fin de atraer la atención del público hacia la causa republicana en plena guerra civil española.'/>
 
 <Pinturas
     img = {Imagen3}
     nombre = 'Mona Lisa'
     
-    autor = 'Van gogh'
-    fecha = 'julio de 1889'
-    descripcion= 'Vicent Van Gogh ingresa en 1889 en el Hospital Psiquiátrico de Sint-Rémy, donde mirando una y otra vez por la ventana, descubre su obsesión por los cipreses. En una de las cartas que escribe a su hermano Theo, le dice: “Los cipreses me siguen preocupando. Me gustaría hacer algo con ellos, como los cuadros de los girasoles, porque me sorprende que nadie los haya pintado aún como yo los veo.'/>
+    autor = 'Leonardo da Vinci'
+    fecha = 'el año aproximado de 1503-1519'
+    descripcion= 'El retrato de una dama florentina llamada Lisa Gherardini y que se realizó a pedido del marido de esta, Francesco del Giocondo.La enorme fama de la pintura se debe a una combinación de factores. Por un lado, la sutil ambigüedad de la expresión de la retratada sumada a la conocida excentricidad de da Vinci la rodearon de una aureola de misterio. Por otra parte, la maestría pictórica de Leonardo, que empleó en esta obra técnicas novedosas de una manera magistral '/>
 
 <Pinturas
     img = {Imagen4}
     nombre = 'Persistencia de la memoria'
     
-    autor = 'Van gogh'
-    fecha = 'julio de 1889'
-    descripcion= 'Vicent Van Gogh ingresa en 1889 en el Hospital Psiquiátrico de Sint-Rémy, donde mirando una y otra vez por la ventana, descubre su obsesión por los cipreses. En una de las cartas que escribe a su hermano Theo, le dice: “Los cipreses me siguen preocupando. Me gustaría hacer algo con ellos, como los cuadros de los girasoles, porque me sorprende que nadie los haya pintado aún como yo los veo.'/>
+    autor = 'Salvador Dalí'
+    fecha = 'aproximadamente el año de 1931'
+    descripcion= 'Este cuadro fue realizado un día en que Dalí se encontraba indispuesto para ir al cine con su mujer y sus amigos. Mientras estaba solo en casa, el artista pintó el que sería uno de los cuadros más famosos de la historia del arte. En efecto, la obra se exhibe en el Museo de Arte Moderno (MoMa) de Nueva York desde 1934.'/>
     </div>
     </div>
     )
