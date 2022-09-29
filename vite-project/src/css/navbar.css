@@ -1,0 +1,38 @@
+
+.navbar{
+    border-radius: 5px;
+    width: 80%;
+    height: 65px;
+    margin: 0 auto;
+    margin-top: 1px;
+    color: #ffffff;
+    background-color: #3b3f49;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Buscador{
+    width: 33%;
+   font-size: 20px; 
+   margin: 0 100px;
+   text-align: center;
+}
+
+.titulo{
+    width: 30%;
+    text-align: center;
+}
+
+.navbar div{
+
+    width: 33%;
+}
+
+.container-img{
+    display: flex;
+    justify-content: flex-start;
+    padding: 10px;
+}
+

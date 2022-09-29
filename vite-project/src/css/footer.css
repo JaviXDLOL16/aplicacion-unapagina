@@ -1,0 +1,14 @@
+.footer{
+    border-radius: 5px;
+    width: 80%;
+    height: 65px;
+    margin: 0 auto;
+    margin-top: 1px;
+    color: #ffffff;
+    background-color: #3b3f49;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 5px;
+}
